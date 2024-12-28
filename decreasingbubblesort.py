@@ -13,4 +13,3 @@ for i in range(25):
     unsorted.append(e)
 
 print(sorting(unsorted))
-print(len(sorting(unsorted)))
